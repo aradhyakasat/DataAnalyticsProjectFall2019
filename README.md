@@ -1,1 +1,2 @@
 # DataAnalyticsProjectFall2019
+Stock markets are extremely sensitive to sentiments whether positive or negative. Analyzing these sentiments helps investors make the correct decisions in terms of buying or selling a stock in order to maximize their profit. The aim of this project is to predict the stock prices and stock market movements using sentiment factors as predictors and build a prediction framework that can eventually be used to create trading strategies.
